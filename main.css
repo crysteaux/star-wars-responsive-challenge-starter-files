@@ -1,0 +1,36 @@
+.nav-bar {
+	position: fixed;
+	height: 120px;
+	width: 100%;
+	background-color: #F0BD35;
+	padding-top: 5px;
+}
+
+.nav-bar p {
+	margin-top: -10px;
+	padding-bottom: 15px;
+}
+
+main {
+  padding-top: 170px;
+  padding-bottom: 100px;
+}
+
+main .row {
+  margin-bottom: 20px;
+}
+
+.box {
+	height: 420px;
+	border: 1px solid #ccc; 
+}
+
+.col-4 {
+	text-align: left;
+}
+
+img {width: 100%}
+
+.caption {
+	padding-left: 15px;
+}
